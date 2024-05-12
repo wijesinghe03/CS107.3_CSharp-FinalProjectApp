@@ -1,0 +1,6 @@
+01 - Fisrt download our "customerdb.zip" file.
+02 - Then open your phpmyAdmin page.
+03 - Create a new database name " customerdb " .
+04 - And find (Import) option then click (choose file).
+05 - Select our "customerdb.zip" file and click Go button.
+06 - Then our database will succefully import to your phpmyAdmin.
